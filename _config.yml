@@ -21,7 +21,7 @@
 title: Julien Law
 email: julienlaw1@gmail.com
 description: julien law full stack software engineer
-baseurl: "/psmagicman.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://psmagicman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  psmagicman
 linkedin_username: julienlaw
